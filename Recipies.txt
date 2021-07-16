@@ -8,6 +8,7 @@ Puri
 Chicken Biryani
 Egg Biryani
 Butter Nauns with Palak paneer
+Mutton Biryani
 
 
 //Adding Post lunch Items
