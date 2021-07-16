@@ -1,6 +1,14 @@
+//Adding Tiffin Items
 Idly
 Vada
 Pauv Baji
 Puri
+
+//Adding Lunch items
+Chicken Biryani
+Egg Biryani
+Butter Nauns with Palak paneer
+
+
 
 
